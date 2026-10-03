@@ -2,6 +2,8 @@
 
 Minimal representation of an LLM model in diferent languages, purely for learning purposes.
 
+The goal is to create every implementation manually, with no AI. Else, there is no learning.
+
 ## Main ingredients in every implementation
 
 Every implementation will have the same components and structure:
